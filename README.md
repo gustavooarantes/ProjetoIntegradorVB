@@ -1,3 +1,6 @@
+<h1>Projeto Integrador V-B</h1>
+<b>Integrantes: Leandro, Beatriz, Luciana, Eduarda e Gustavo</b>
+
 <h2>Visão geral da aplicaação</h2>
 <p>
 ├── simulation </br>
